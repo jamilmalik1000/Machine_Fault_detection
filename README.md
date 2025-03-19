@@ -71,8 +71,7 @@ Recall                :          94%
 
 F1-Score              :          93%
 ## Clone the Repository:
-git clone https://github.com/your-repo-link.git
-cd your-project-folder
+https://github.com/jamilmalik1000/Machine_Fault_detection.git
 
 ## Install Dependencies:
 pip install -r requirements.txt
